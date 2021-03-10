@@ -1,6 +1,6 @@
 {
-  "name": "@vitesse-lite/template",
-  "version": "0.0.0",
+  "name": "YAYA-vue3",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "vite --port 3333 --open",
